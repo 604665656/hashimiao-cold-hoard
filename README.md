@@ -6,7 +6,7 @@
 ## 在线玩
 
 - **GitHub Pages（已上线，现在可玩）**：https://604665656.github.io/hashimiao-cold-hoard/ （HTTP 200，返回内容与本仓 `index.html` 逐字节一致）
-- **B站 TOY**：https://www.bilibili.com/toy/hashimiao-cold-hoard/index.html — id `54285236702208`，2026-11-12 提交，`auditing` 中，过审后开放
+- **B站 TOY（已上线）**：https://www.bilibili.com/toy/hashimiao-cold-hoard/index.html — id `54285236702208`，2026-11-12 提交，同日复审后 `published`
 - **源码仓库**：https://github.com/604665656/hashimiao-cold-hoard （commit `d1b9c83`，31 文件）
 
 ## 玩法速览
