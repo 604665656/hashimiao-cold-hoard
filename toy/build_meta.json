@@ -1,0 +1,27 @@
+{
+  "key": "hashimiao-cold-hoard",
+  "title": "极寒末世的囤货模拟器",
+  "source": "极寒末世囤货模拟器_完整版.html",
+  "source_bytes": 612236,
+  "sha256": "defa258d117462ede08fd7752318bd413bbef3dc77f0a02fb11a448b77f6dee2",
+  "toy_entry": "index.html（单文件直传，未分包；<1MiB）",
+  "scripts": 1,
+  "styles": 1,
+  "script_src": 0,
+  "link_stylesheet": 0,
+  "data_image": 37,
+  "external_http_src_href": 0,
+  "fetch_calls": 0,
+  "xhr": 0,
+  "node_check": "1/1",
+  "build_label": "1.0.0+20261112",
+  "gate": {
+    "limit_kib": 600,
+    "warn_kib": 590,
+    "result": "PASS",
+    "hard_checks": "12",
+    "embedded_images": 37,
+    "no_external_src": true
+  },
+  "note": "零外部请求；37 张内嵌图；发布清单 12 项硬检查 PASS"
+}

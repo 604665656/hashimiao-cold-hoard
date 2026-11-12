@@ -1,0 +1,55 @@
+{
+  "name": "极寒末世囤货模拟器",
+  "version": "1.0.0",
+  "build": "1.0.0+20261112",
+  "built_at": "2026-11-12 09:15:50",
+  "packaged_at": "2026-11-12 09:21:41",
+  "entry": "极寒末世囤货模拟器_完整版.html",
+  "entry_bytes": 612236,
+  "entry_kib": 597.9,
+  "entry_sha256": "defa258d117462ede08fd7752318bd413bbef3dc77f0a02fb11a448b77f6dee2",
+  "gate": {
+    "limit_kib": 600,
+    "warn_kib": 590,
+    "result": "PASS",
+    "hard_checks": "12",
+    "embedded_images": 37,
+    "no_external_src": true
+  },
+  "regression": {
+    "stages": 7,
+    "pageerrors": 0,
+    "js_errors_clean": true,
+    "raw_log": "发布验收日志.txt"
+  },
+  "contents": [
+    "极寒末世囤货模拟器_完整版.html",
+    "README_上架说明.md",
+    "发布说明.md",
+    "素材与版权声明.md",
+    "看板_待办.md",
+    "发布验收日志.txt",
+    "构建元数据.json",
+    "docs/开发日记.md",
+    "docs/体积校验报告.md",
+    "docs/减法账单.md",
+    "docs/美术生图排期.md",
+    "docs/同类生存囤货游戏调研与优化建议.md",
+    "docs/体积历史.json",
+    "tools/build_game.py",
+    "tools/check_size.py",
+    "tools/shrink.py",
+    "tools/browser_check.js",
+    "tools/make_release.py",
+    "上架预览.png",
+    "发布清单.json",
+    "SHA256SUMS"
+  ],
+  "notes": [
+    "只需上传 entry 指向的 HTML；其余为交付与复核材料",
+    "不联网 / 无外链 / 无后端 / 不上传用户数据",
+    "美术资产版权保留，仅本项目内使用",
+    "成绩码校验位防手滑不防作弊；无云端排行榜",
+    "剩余 7 条优化冻结在看板_待办.md，未进入 v1.0"
+  ]
+}
